@@ -22,7 +22,7 @@ An open-source, self-hostable alternative to Notion built with modern web techno
 ### Running with Docker
 
 ```bash
-git clone https://github.com/yourusername/votion.git
+git clone https://github.com/jej2k5/votion.git
 cd votion
 cp .env.example .env
 docker-compose up -d
